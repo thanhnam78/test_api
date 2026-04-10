@@ -26,13 +26,14 @@ API Endpoints
 Ví dụ Input
 
 {
-"text": "I love pho"
+"text": "I love Vietnamese food like pho"
 }
 
 Output
 
 {
-  "input": "I love pho",
-  "predicted_label": "Vietnamese food",
-  "confidence": 0.82
+  "input": "I love Vietnamese food like pho",
+  "result": {
+    "label": "Vietnamese food",
+    "confidence": 0.9975
 }
