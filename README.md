@@ -15,7 +15,7 @@
 ## Cách chạy
 python3 -m uvicorn main:app --reload
 
-🔗 API Endpoints
+API Endpoints
 - GET /
 → Kiểm tra API hoạt động
 - GET /health
