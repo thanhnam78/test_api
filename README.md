@@ -37,3 +37,6 @@ Output
     "label": "Vietnamese food",
     "confidence": 0.9975
 }
+
+## Demo video 
+https://drive.google.com/drive/folders/1PkybiiyTZVgiBcSqHxtTMLxS0A3JIeh8?usp=sharing
